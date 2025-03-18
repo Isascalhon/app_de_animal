@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 414px;
+    margin: 0 auto;
+
+}
+
+.content{
+    min-height: 800px;
+    background: linear-gradient(
+        #CAD8FF, #2C4674 );
+        border-radius: 28px;
+}
